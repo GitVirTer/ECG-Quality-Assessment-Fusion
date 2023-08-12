@@ -3,3 +3,5 @@ ECG Quality Assessment Based on Hand-Crafted Statistics and Deep-Learned S-Trans
 
 Please cite:
 G. LIU, X. HAN, L. TIAN, W. ZHOU, and H. LIU, "ECG Quality Assessment Based on Hand-Crafted Statistics and Deep-Learned S-Transform Spectrogram Features," Computer Methods and Programs in Biomedicine, p. 106269, 2021.
+
+Please visit my personal webpage for more relevant studies: http://guoyang.work/
